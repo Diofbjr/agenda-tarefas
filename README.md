@@ -1,2 +1,1 @@
-# agenda-tarefas
- 
+Nesse projeto se teve o intuito de criar uma agenda de tarefas onde as mesmas podem ser criadas, editadas, excluidas e visualidas com um login feito atravez do github e feito atravez do react com o framework next
